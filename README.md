@@ -1,7 +1,3 @@
-Вот README целиком, с отрисованными таблицами. Блок `mermaid` в чате показывается как код, а на GitHub он превратится в схему.
-
----
-
 # social_network
 
 A social network backend built as a set of Java microservices, with a full local infrastructure stack: Docker Compose, centralized configuration, message queues, monitoring and a CI/CD pipeline.
@@ -148,7 +144,3 @@ Required CI variables: `SSH_PRIVATE_KEY`, `DEV_HOST`, `DEV_USER`, `DEV_APP_PATH`
 ## License
 
 TODO: add a license (for example MIT).
-
----
-
-Чтобы скопировать в репозиторий, берите файл `README.md` из моего прошлого сообщения. Копирование из отрисованного текста в чате может потерять форматирование таблиц и блоков кода.
